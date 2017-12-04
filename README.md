@@ -17,45 +17,100 @@
 ### Lesson 3: Primative Type & Operators I ###
 
 * Primatives Type
-* 
-* 
+* Assignment
+* Mathematical Operators
+* Relational Operators
+* Bitwise Operators
+* Logical Operators
+* Assignment Operators
+* Shift Operators
+* Miscellaneous Operators: String, Casting, Ternary if-else, etc...
+* Precedence
 
-### Lesson 4: Operators II ###
+### Lesson 4: Operators II - Flow control ###
+
+* if-else
+* switch
+* Iteration
+* return, break, continue
 
 ### Lesson 5: Documentation & Review ###
 
+* Java Documentation
+
 ### Lesson 6: Class and Object ###
 
-* Lifecycle
-* Auto boxing/ unboxing
+* Create new data types: class
+* Object Lifecycle
+* this, new
+* Garbage Collection
+* Autoboxing & Unboxing
 
-### Lesson 7: Access Control ###
-* Encapsulate
+### Lesson 7: Encapsulate ###
+
+* Access Control
+* Access Specifier
 
 ### Lesson 8: Composition & Inheritance ###
 
+* Composition syntax
+* Inheritance syntax
+* Overriding & Overloading
+* Variable Arguments, Varargs
+* Choosing composition or inheritance?
 
 ### Lesson 9: interface & abstract ###
+
 * Interface & Implementation
 * abstract
+* Multiple Inheritance
 
 ### Lesson 10: static & enum & final ###
+
 * static
+* enum
 * final
 
 ### Lesson 11: Polymorphism ###
 
+* Upcasting
+* Constructors & Polymorphism
+* Covariant return types
+
 ### Lesson 12: Code Style & Review ###
 
+* Java Style Guide
+* Clean Code
 
 ### Lesson 13: Inner Classes ###
 
+* Inner class & Outer class
+* Inner class lifecycle
+* .this & .new
+* Anonymous classes
+* Closures & Callbacks
+
 ### Lesson 14: Collection & Map I ###
 
+* List
+* Set
+* Queue
+* Map
+* Iterator & Foreach
+
 ### Lesson 15: Error Handling I ###
-* assert
+
+* Exception Hierarchy
+* Types of Exception: Checked Exception, Unchecked Exception, and Error.
+* throw, throws
+* try-catch-finally
+* try-with-resource
 
 ### Lesson 16: Error Handling II & Review ###
+
+* Common Exception
+* Assertion
+* Custom Exception
 
 ### Lesson 17: String & Regular Expression ###
 
@@ -75,7 +130,7 @@
 
 ### Lesson 25: Collection & Map III ###
 
-### Lesson 26: Enum & Review ###
+### Lesson 26: Enumeration & Review ###
 
 ### Lesson 27: Thread ###
 
